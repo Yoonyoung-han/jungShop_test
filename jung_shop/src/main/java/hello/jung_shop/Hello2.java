@@ -4,4 +4,5 @@ public class Hello2 {
     Long id;
     String name;
     String phoneNo;
+    String gender;
 }
